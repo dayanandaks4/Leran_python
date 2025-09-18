@@ -12,9 +12,9 @@ def divide(x, y):
 def calculator():
     print("Select operation:")
     print("1. add")
-    print("2. subtract")
-    print("3. Multiply")
-    print("4. Divide")
+    print("2. SUB")
+    print("3. MUL")
+    print("4. DIV")
     while True:
         choice = input("Enter choice (1/2/3/4): ")
         if choice in ['1', '2', '3', '4']:
