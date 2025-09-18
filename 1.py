@@ -11,8 +11,8 @@ def divide(x, y):
     return x / y
 def calculator():
     print("Select operation:")
-    print("1. Add")
-    print("2. Subtract")
+    print("1. add")
+    print("2. subtract")
     print("3. Multiply")
     print("4. Divide")
     while True:
